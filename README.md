@@ -1,7 +1,6 @@
 # paradox-computer.github.io
 organization page for paradox-computer
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8">
@@ -21,7 +20,7 @@ organization page for paradox-computer
 <link rel="stylesheet" type="text/css" href="https://liberal.cloud/democrat.party.css">
 
 
-<object data="https://leahy.press/democratic-seal.svg" type="" style="width: 10%; max-width: 300px; min-width: 50px; position: fixed; bottom:0; left: 0; z-index: 1000;">
+<object data="https://democrat.computer/democratic-seal.svg" type="" style="width: 10%; max-width: 300px; min-width: 50px; position: fixed; bottom:0; left: 0; z-index: 1000;">
 </object>
 
 
@@ -95,12 +94,6 @@ START CONTENT -->
 <section>
 
 
-    <article>
-    <p>&nbsp;</p>
-    <p></p>
-
-    <ul>
-</a></li>
 <li><a href="http://.DS_Store" >.DS_Store
 </a></li>
 <li><a href="http://baldwin.democrat" >baldwin.democrat
@@ -207,14 +200,6 @@ START CONTENT -->
 </a></li>
 <li><a href="http://workers.democrat" >workers.democrat
 
-
-    </ul>
-        
-
-    </p></p>
-    </article>
-
-</section>
 
 
 <section>
